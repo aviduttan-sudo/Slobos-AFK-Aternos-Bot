@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dihvengers.aternos.me:62791",
-    "port": 62791,
-    "version": "26.2",
+    "ip": "dihvengers.aternos.me",
+    "port": 21757,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
